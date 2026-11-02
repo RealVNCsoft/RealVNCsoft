@@ -39,7 +39,7 @@ Both original installers are included in one Windows ZIP package. Viewer and Ser
 
 | Repository | What's inside |
 |---|---|
-| [realvnc-download](https://github.com/RealVNCsoft/realvnc-download) | Windows release package, product details, and setup instructions |
-| [RealVNCsoft.github.io](https://github.com/RealVNCsoft/RealVNCsoft.github.io) | Product information page |
+| [realvnc-download](https://github.com/RealVNCsoft/realvnc-download) | Windows installers, versions, and setup instructions |
+| [RealVNCsoft.github.io](https://github.com/RealVNCsoft/RealVNCsoft.github.io) | RealVNC Viewer and Server product page |
 
-<sub>RealVNC and VNC are trademarks of RealVNC Ltd. This account is independently maintained; software use remains subject to the publisher's license terms.</sub>
+<sub>RealVNC and VNC are trademarks of RealVNC Ltd. Software use is subject to the publisher's license terms.</sub>
